@@ -1,0 +1,6 @@
+module Pods_CasinoClassic {
+  umbrella header "Pods-CasinoClassic-umbrella.h"
+
+  export *
+  module * { export * }
+}
